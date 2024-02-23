@@ -1,5 +1,5 @@
 quality_profiles:
-  - name: Remux-1080p - Anime
+  - name: Anime - 1080p Redux
     reset_unmatched_scores:
       enabled: true
     upgrade:
